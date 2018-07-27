@@ -28,11 +28,12 @@ public class AdventureGame : MonoBehaviour {
         var nextStates = state.GetNextStates();
         for (int index = 0; index < nextStates.Length; index++)
         {
-            if(Input.GetKeyDown(KeyCode.Alpha1+index))
+            if(Input.GetKeyDown(KeyCode.Alpha1 + index))
             {
                 state = nextStates[index];
             }
 
         }
+        textComponent.text = state.GetStateStory();
     }
 }
