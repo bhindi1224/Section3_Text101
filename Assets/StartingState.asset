@@ -16,3 +16,6 @@ MonoBehaviour:
     \ I can see there is a single exit through a battered wooden door.\r\n\r\nWhat
     should I do?\r\n\n1. Immediately leave the room and try to see what's going on.\r\n2.
     Explore the room, looking for clues."
+  nextStates:
+  - {fileID: 11400000, guid: 1648eb8d6acec8e40bed1a031a07aff8, type: 2}
+  - {fileID: 11400000, guid: 3c6292042b796b1498791c182fa46efe, type: 2}
