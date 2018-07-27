@@ -735,7 +735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 764931244}
-  startingState: {fileID: 11400000, guid: cc15bd4f83e18a2418489617d96cdf5c, type: 2}
+  startingState: {fileID: 11400000, guid: b9ae36d11f8eb0340b41f95b326e96a7, type: 2}
 --- !u!4 &1533143454
 Transform:
   m_ObjectHideFlags: 0
@@ -874,18 +874,18 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 147
+    m_FontSize: 132
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
-    m_MaxSize: 147
+    m_MaxSize: 165
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Grass is Greener
+  m_Text: The Grass Isn't Always Greener
 --- !u!222 &2095004401
 CanvasRenderer:
   m_ObjectHideFlags: 0

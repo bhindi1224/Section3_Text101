@@ -9,9 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 03ef31db351a771448c1e5bcff7c501b, type: 3}
-  m_Name: Room 2
+  m_Name: A3. Go Through Door
   m_EditorClassIdentifier: 
-  storyText: This looks like room 2.
+  storyText: 'I walk through the door and into a black hole.  I die.
+
+
+    Press 1 to continue.'
   nextStates:
-  - {fileID: 11400000, guid: cc15bd4f83e18a2418489617d96cdf5c, type: 2}
-  - {fileID: 11400000, guid: 1648eb8d6acec8e40bed1a031a07aff8, type: 2}
+  - {fileID: 11400000, guid: 291043210f9e7764d95b6c635674b840, type: 2}
